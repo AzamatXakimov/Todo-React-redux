@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "122@gmail.com",
+      "password": "$2a$10$1B3X.S6RDCl22yMSkD4wWue5B23s6j.TXMiH/n5kd4iO5BJjREK4e",
+      "last_name": "112",
+      "frist_name": "122",
+      "id": 1
+    },
+    {
+      "email": "typetiger@gmail.com",
+      "password": "$2a$10$vILEiig2fl6Uj8YT9aPyKuysPnPO.9Gm6Jbepxed8nTsZZeyBcIsi",
+      "firstName": "Azamat",
+      "lastName": "Xakimov",
+      "id": 2
+    }
+  ],
+  "todo": [
+    {
+      "title": "dddd",
+      "isComplete": false,
+      "id": 3
+    },
+    {
+      "title": "Azamat",
+      "isComplete": false,
+      "id": 4
+    },
+    {
+      "title": "dddd2",
+      "isComplete": false,
+      "id": 5
+    }
+  ]
+}
